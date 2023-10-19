@@ -1,0 +1,10 @@
+1: https://gifft.me/create
+2: https://gifft.me/create-giftbox-style
+3: https://gifft.me/create-love
+4: https://gifft.me/create-birthday
+5: https://gifft.me/create-heart
+6: https://gifft.me/create-bubble-pop
+7: https://gifft.me/create-card
+8: https://gifft.me/create-voice
+9: https://gifft.me/create-val
+10: https://gifft.me/create-halloween
